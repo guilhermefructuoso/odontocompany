@@ -93,7 +93,9 @@
 @media (max-width: 700px) {
     #home {
         background-image: url(../../assets/fachada-mk.png);
-        background-size: 100% 1273px;
+        background-size: 100% 750px;
+        background-repeat: no-repeat;
+        height: auto;
     }
     .content-home {
        

@@ -174,8 +174,20 @@ span svg {
     }
     .map{
         width: 100%;
+        margin-bottom: 40px;
     }
     .horario{
         width: 100%;
+        margin-bottom: 20px;
+    }
+
+    .direction{
+        width: 300px;
+        margin-top: 20px;
+    }
+
+    .direction span{
+        font-size: 0.8rem;
+        
     }
 }
