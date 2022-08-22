@@ -182,12 +182,11 @@ span svg {
     }
 
     .direction{
-        width: 300px;
+        width: 320px;
         margin-top: 20px;
     }
 
     .direction span{
         font-size: 0.8rem;
-        
     }
 }
