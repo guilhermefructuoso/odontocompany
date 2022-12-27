@@ -1,6 +1,5 @@
 import React from 'react'
 import './especialidades.css'
-import YouTube from 'react-youtube';
 import icon1 from '../../assets/icon1.png'
 import icon2 from '../../assets/icon2.png'
 import icon3 from '../../assets/icon3.png'
@@ -11,14 +10,7 @@ import icon6 from '../../assets/icon6.png'
 
 
 function Especialidades() {
-    const opts = {
-        height: '200',
-        width: '300',
-        playerVars: {
-          // https://developers.google.com/youtube/player_parameters
-          autoplay: 1,
-        },
-      };
+    
   
 
     return (
@@ -116,9 +108,7 @@ function Especialidades() {
                 </div>
             </div>
 
-        <div className='video'>                    
-         <YouTube videoId="2Ur1aYz7-HA" opts={opts}/>
-         </div>
+       
         </section>
     )
 }

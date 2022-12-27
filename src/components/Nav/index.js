@@ -84,14 +84,15 @@ function Nav() {
                                             Quem somos
                                         </AnchorLink>
                                     </div>
-                                    <div className="anchor-modal">
-                                        <AnchorLink href="#profissionais">
-                                           Profissionais
-                                        </AnchorLink>
-                                    </div>
+                                   
                                     <div className="anchor-modal">
                                         <AnchorLink href="#especialidades">
                                             Especialidades
+                                        </AnchorLink>
+                                    </div>
+                                    <div className="anchor-modal">
+                                        <AnchorLink href="#profissionais">
+                                           Profissionais
                                         </AnchorLink>
                                     </div>
                                     <div className="anchor-modal">

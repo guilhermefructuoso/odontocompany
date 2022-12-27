@@ -19,8 +19,8 @@
 }
 
 .logo img {
-    width: 231px;
-    height: 92.4px;
+    width: auto;
+    height: auto;
 }
 
 .menu {
@@ -98,6 +98,10 @@ a:hover {
 }
 
 @media (max-width: 700px) {
+    .nav-container{
+        height: 60px;
+       
+    }
     .logo {
         padding-left: 0%;
     }

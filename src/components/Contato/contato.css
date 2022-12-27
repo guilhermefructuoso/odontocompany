@@ -84,16 +84,6 @@ label {
     flex-direction: column;
 }
 
-.map-container{
-    display: flex;
-    flex-direction: column;
-    
-    justify-content: center;
-    width: 500px;
-    margin-top: 90px;
-}
-
-
 
 .map { 
     display: flex;
